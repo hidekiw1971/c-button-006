@@ -44,19 +44,11 @@
   }
 }
 
-// 文字の表示（ホバー前）
-.btn span {
-  position: relative;
-  z-index: 1;
-  transition: 0.3s;
-  @include mq(md) {
-  }
-  @include mq(xl) {
-  }
-}
-
 // 文字の表示（ホバー時）
 .btn:hover span {
+  position: relative;
+  z-index: 1;
+  transition: 0.1s;
   // color: #007db9;
   @include mq(md) {
   }
