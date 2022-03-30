@@ -40,11 +40,11 @@
 ## w3c css チェック結果
 
 - https://jigsaw.w3.org/css-validator/
-
+- <img width="1506" alt="image" src="https://user-images.githubusercontent.com/99580997/160230161-85f9acb8-e737-47bb-aaf2-1a802f174505.png">
+- 
 ## portfolio url:
 
 - https://css-md-0036.wtb.cfbx.jp/
-- <img width="1506" alt="image" src="https://user-images.githubusercontent.com/99580997/160230161-85f9acb8-e737-47bb-aaf2-1a802f174505.png">
 
 
 ## 参考にしたサイト
